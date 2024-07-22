@@ -1,0 +1,29 @@
+.navbar-custom {
+  background-color: #6a1b9a;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  color: #fff; 
+}
+
+.navbar-custom .navbar-toggler {
+  padding: 0.25rem 0.5rem;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  font-size: 0.9rem;
+}
+
+.navbar-custom .navbar-toggler-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+
+.navbar-custom .navbar-brand, .navbar-custom .nav-link {
+  align-items: center;
+  display: flex;
+  height: 100%;
+}
